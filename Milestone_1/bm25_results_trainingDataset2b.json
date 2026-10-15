@@ -1,0 +1,11 @@
+{
+  "dataset": "BioASQ_2013_TaskB\\BioASQ-trainingDataset2b.json",
+  "queries_evaluated": 305,
+  "metrics": {
+    "NDCG@5": 0.6995593640042614,
+    "NDCG@10": 0.6646703970961938,
+    "MRR@10": 0.8411098100442364,
+    "MAP": 0.5748675669901888,
+    "Recall@100": 0.8203406832044101
+  }
+}
