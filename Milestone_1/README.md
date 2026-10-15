@@ -1,12 +1,12 @@
 # Milestone 1: Indexação, Baseline Lexical e Avaliação Tradicional
 
 ## Descrição
-Nesta primeira fase do projeto, o objetivo foi estabelecer uma *baseline* para a recuperação de informação utilizando a coleção de dados biomédica BioASQ (Task B)[cite: 20, 21]. 
+Nesta primeira fase do projeto, o objetivo foi estabelecer uma *baseline* para a recuperação de informação utilizando a coleção de dados biomédica BioASQ (Task B) e um código que corresse e atingisse os seguintes objetivos. 
 
 ## Tarefas Realizadas
-* Pré-processamento e tokenização do corpus[cite: 21].
-* Indexação da coleção utilizando a implementação probabilística BM25[cite: 21].
-* Avaliação quantitativa da *baseline* com a ferramenta `pytrec_eval` utilizando as métricas NDCG@5, NDCG@10, MRR@10, MAP e Recall@100[cite: 21].
+* Pré-processamento e tokenização do corpus.
+* Indexação da coleção utilizando a implementação probabilística BM25.
+* Avaliação quantitativa da *baseline* com a ferramenta `pytrec_eval` utilizando as métricas NDCG@5, NDCG@10, MRR@10, MAP e Recall@100.
 
 ## Como executar
 1. Instalar dependências: `pip install -r requirements.txt`
