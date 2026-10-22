@@ -1,0 +1,8 @@
+{
+  "chat.tools.terminal.autoApprove": {
+    "/^python -c \"import scipy, numpy; print\\(scipy\\.__version__, numpy\\.__version__\\)\"$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  }
+}
